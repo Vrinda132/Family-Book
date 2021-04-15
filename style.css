@@ -1,0 +1,21 @@
+h1 {
+font-family: 'New Tegomin', serif;
+color: crimson;
+}
+
+#album {
+    margin-bottom: 20px ;
+    width:400px;
+    height:400px;
+}
+
+button{
+    background-color:#FFFF00;
+    color:#D50000;
+    border-radius:50px;
+    width:80px;
+  }
+
+  body{
+      background-color: gray;
+  }
